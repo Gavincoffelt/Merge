@@ -1,0 +1,7 @@
+﻿  Main.cpp
+c:\users\s189067\source\repos\merge\merge\main.cpp(33): warning C4018: '<': signed/unsigned mismatch
+c:\users\s189067\source\repos\merge\merge\main.cpp(36): warning C4018: '<': signed/unsigned mismatch
+c:\users\s189067\source\repos\merge\merge\main.cpp(41): warning C4018: '<=': signed/unsigned mismatch
+c:\users\s189067\source\repos\merge\merge\main.cpp(43): warning C4018: '>=': signed/unsigned mismatch
+c:\users\s189067\source\repos\merge\merge\main.cpp(43): warning C4018: '<': signed/unsigned mismatch
+  Merge.vcxproj -> C:\Users\s189067\source\repos\Merge\Debug\Merge.exe
